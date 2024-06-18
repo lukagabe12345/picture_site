@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+  
+  
+}
+
+div{
+   margin-top: 100px;
+}
+
+img{
+    
+   
+   background-size: 100%;
+    
+  display: flex;
+    margin: 0 auto;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+padding: 20px;
+
+}
+
+@media(max-width:508px){
+img{
+   width: 480px;
+  
+}
+}
+
+@media(max-width:491px){
+    img{
+       width: 460px;
+    }
+    }
+
+    @media(max-width:472px){
+        img{
+           width: 445px;
+        }
+        }
+
+        @media(max-width:457px){
+            img{
+              
+            }
+            }
